@@ -1,1 +1,1 @@
-# rc.lua_config
+# sys_config.lua
